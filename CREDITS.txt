@@ -1,0 +1,26 @@
+The Library Project is designed by Shashank Barthwal B.Tech CSE-CSF.
+This project is created as yearly submission project of C++.
+This is a library project which contains most of the library features. you can perform many functions which are available in a library softwares in real world.
+The functions are as follows: 
+1. Add books to library:
+-------------------------
+Through this feature, you can add several books to your library for recording purposes.
+
+2. Issue books to students:
+----------------------------
+By this feature, the librarian will be allowed to issue books to desiring students.
+
+3. Search Issue Records:
+----------------------------
+using this feature, students can see what books are issued on their account.
+
+4. Search a book:
+------------------
+You can also search your desired book among thousands of other books either by name or by Acc no.
+
+
+There are lot more features which you will find in the project!
+The documentation will be soon created by Shashank Barthwal.
+
+
+Thanks for watching!
