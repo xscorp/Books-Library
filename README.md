@@ -13,7 +13,7 @@ User can search a stored book either with book's ACC number or the name of the b
       <li>Clone the entire project in your desired directory using:<br>
             <pre><i>git clone https://github.com/xscorp/Books-Library.git</i></pre><br>
       <li>Compile the code using:<br>
-            <pre><i>gcc main.cpp -o libraryproject</i></pre><br>
+            <pre><i>g++ main.cpp -o libraryproject</i></pre><br>
       <li>Run the code using:<br>
             <b>Linux</b>:<pre> <i>./libraryproject</i><br></pre>
             <b>Windows</b>:<pre> <i>libraryproject</i><br></pre>
