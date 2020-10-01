@@ -4,7 +4,7 @@ A simple Books Library project written in C++
 This is a CLI based Library Project which I wrote in first year of my college. This is coded in C++.
 Since It is CLI based, It doesn't offer that good user interaction. However I have tried my best to make it a bit interactive.
 
-Unlike many other Library Projects on the web, It support Book issueing function. That means a user(student) can issue a book and the record will be kept.
+Unlike many other Library Projects on the web, It supports book issuing function. That means a user(student) can issue a book and the record will be stored.
 User can search a stored book either with book's ACC number or the name of the book.
 
 # [USAGE]:
